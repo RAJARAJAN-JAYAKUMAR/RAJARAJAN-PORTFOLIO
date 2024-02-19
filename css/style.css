@@ -5,14 +5,13 @@
 #navbar {
     font-family: Roboto, sans-serif;
     background-size: cover;
-    background-color: rgba(255, 255, 255, 0.8);
-    padding: 15px 20px;
+    background: linear-gradient(90deg, rgba(96,136,170,1) 33%, rgba(157,223,255,1) 89%, rgba(254,251,246,1) 100%);    padding: 15px 20px;
     transition: all 0.5s ease;
 }
 
 #nav-logo {
     font-size: 24px;
-    color: #000000;
+    color: white;
     text-transform: uppercase;
     font-weight: bolder;
 }
@@ -78,13 +77,13 @@
 .image-frame {
     width: 380px;
     height: 380px;
-    background-image: url(../images/profile-image.png);
+    background-image: url(../images/PofilePicLeft.jpg);
     background-position: center;
     background-size: cover;
     border: 8px solid #FFFFFF;
-    border-radius: 50%;
+    border-radius: 30px;
     position: absolute;
-    top: 110px;
+    top: 120px;
     left: 50%;
     transform: translateX(-50%);
 }
@@ -110,7 +109,7 @@
         width: 200px;
         height: 200px;
         top: 40px;
-        border: 5px solid #FFFFFF;
+        border: 5px solid white;
     }
 }
 
