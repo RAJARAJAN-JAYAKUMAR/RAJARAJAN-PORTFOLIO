@@ -1082,8 +1082,8 @@
 
 .section-7 {
   padding: 170px 0px 170px 0px;
-  background-image: url(../images/footer-img.jpg);
-  background-position: top;
+  background-image: url(../images/footerimage.jpg);
+  background-position: center;
   background-size: cover;
   position: relative;
 }
