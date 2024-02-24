@@ -17,7 +17,7 @@
 
 #nav-logo {
   font-size: 24px;
-  color: white;
+  color: rgb(72, 220, 247);
   text-transform: uppercase;
   font-weight: bolder;
 }
@@ -39,7 +39,8 @@
 }
 
 .color-white {
-  color: #ffffff !important;
+  color: rgb(39, 27, 41) !important;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 
 .nav-btn-icon {
@@ -931,6 +932,7 @@
   font-size: 18px;
   letter-spacing: 4px;
   margin-top: 10px;
+  color: #000;
 }
 
 .card-row-1,
@@ -951,7 +953,7 @@
 .card-circle {
   width: 100px;
   height: 100px;
-  background-color: #3e64ff;
+  background-color: #27c2d6;
   border-radius: 50%;
   margin: 10px auto;
   position: relative;
@@ -1113,7 +1115,7 @@
   font-family: Roboto, sans-serif;
   font-weight: 400;
   line-height: 1.6;
-  color: #ffffff;
+  color: #17d3f4;
 }
 
 .section-7-icons {
@@ -1122,11 +1124,11 @@
 }
 
 .social-icons {
-  color: #ffffff;
+  color: #17d3f4;
 }
 
 .social-icons:hover {
-  color: #c5c5c5;
+  color: #3e64ff;
 }
 
 .social-icons:not(:last-child) {
